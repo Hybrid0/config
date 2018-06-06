@@ -5,7 +5,7 @@
 ## Chocolatey
 Install chocolatey.
 
-Run following commands as administrator(run `refreshenv` after install curl if necessary).
+Run following commands as administrator(run `refreshenv` after installed curl if necessary).
 
 > choco install curl -y
 
