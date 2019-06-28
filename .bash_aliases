@@ -1,1 +1,4 @@
-alias blog='cd /mnt/d/Projects/blog'
+if [ -f ~/.local_aliases ]; then
+    . ~/.local_aliases
+fi
+
