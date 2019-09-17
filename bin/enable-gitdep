@@ -1,0 +1,1 @@
+cp ~/bin/data/post-checkout-org ./.git/hooks/post-checkout
