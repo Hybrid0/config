@@ -1,6 +1,6 @@
 python-pip
 zsh autojump
 x11-apps xfonts-base xfonts-100dpi xfonts-75dpi xfonts-cyrillic
-jekyll
+ruby-full gcc libc6-dev build-essential
 npm
 
